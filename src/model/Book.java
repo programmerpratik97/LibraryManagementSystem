@@ -50,5 +50,3 @@ public class Book {
         return String.format("Book[%s: %s by %s, %d]", isbn, title, author, publicationYear);
     }
 }
-
-}
